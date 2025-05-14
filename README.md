@@ -30,7 +30,6 @@ The setup for this project involved wiring the two motion-detecting proximity se
 
 Each sensor was strategically positioned to detect motion in specific zones, forming part of the escape room's puzzle logic. The microcontroller was programmed to monitor both sensors and check for a condition—such as both sensors being triggered within a certain time frame or in a specific order. Once this condition was satisfied, the system would trigger an actuator, such as rotating a servo or flashing an LED, to simulate an unlocking event.
 
-The entire system was prototyped on a breadboard and powered independently for testing. The interaction was designed to feel seamless and reactive, increasing immersion for escape room participants.
 
 ---
 
